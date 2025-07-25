@@ -1,5 +1,0 @@
-: 'Making existing-target out of nothing.'
-bmake[1]: don't know how to make nonexistent-target (continuing)
-
-bmake[1]: stopped in unit-tests
-2

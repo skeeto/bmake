@@ -1,7 +1,0 @@
-bmake[1]: "opt-warnings-as-errors.mk" line 13: warning: message 1
-bmake[1]: parsing warnings being treated as errors
-bmake[1]: "opt-warnings-as-errors.mk" line 15: warning: message 2
-parsing continues 
-bmake[1]: Fatal errors encountered -- cannot continue
-bmake[1]: stopped in unit-tests
-1

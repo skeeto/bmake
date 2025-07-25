@@ -1,7 +1,0 @@
-bmake[1]: "cond-token-var.mk" line 21: ok
-bmake[1]: "cond-token-var.mk" line 28: Malformed conditional (${UNDEF} == ${DEF})
-bmake[1]: "cond-token-var.mk" line 34: Malformed conditional (${DEF} == ${UNDEF})
-bmake[1]: "cond-token-var.mk" line 44: Malformed conditional (${UNDEF})
-bmake[1]: Fatal errors encountered -- cannot continue
-bmake[1]: stopped in unit-tests
-1

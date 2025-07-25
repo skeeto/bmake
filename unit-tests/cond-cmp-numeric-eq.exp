@@ -1,5 +1,0 @@
-bmake[1]: "cond-cmp-numeric-eq.mk" line 68: Malformed conditional (!(12345 = 12345))
-bmake[1]: "cond-cmp-numeric-eq.mk" line 76: Malformed conditional (!(12345 === 12345))
-bmake[1]: Fatal errors encountered -- cannot continue
-bmake[1]: stopped in unit-tests
-1

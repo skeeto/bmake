@@ -1,9 +1,0 @@
-exit 1 fail1
-*** Error code 1 (continuing)
-exit 1 fail2
-*** Error code 1 (continuing)
-exit succeed
-
-Stop.
-bmake[1]: stopped in unit-tests
-1
